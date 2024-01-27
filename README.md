@@ -1,4 +1,3 @@
-
 [![passport banner](http://cdn.auth0.com/img/passport-banner-github.png)](http://passportjs.org)
 # Passport
 Passport is [Express](http://expressjs.com/)-compatible authentication
